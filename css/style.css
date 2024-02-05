@@ -1,13 +1,12 @@
 .hero {
     display: flex;
+    justify-content: center;
+    align-items: center;
     background-image: url('../image/Background.png');
     background-repeat: no-repeat;
     background-size: cover;
-    height: 50vh;
     color: #FFA3FD;
-    position: relative;
-    justify-content: center;
-    align-content: center;
+    height: 50vh;
 }
 
 .heroname-margin {
